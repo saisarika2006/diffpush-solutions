@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "totalSolved": 1,
+    "diffScore": 0,
+    "currentStreak": 0,
+    "lastActiveDate": null
+  },
+  "solvedMap": {
+    "largest-element-in-array": {
+      "solvedAt": 1791109063001,
+      "runtimeMs": 2
+    }
+  },
+  "starredIds": [],
+  "reviewQueue": [],
+  "boxState": {},
+  "achievements": [],
+  "comboCount": 0,
+  "lastSolveAt": null,
+  "dailySquares": {},
+  "freezes": 0,
+  "goal": null
+}
