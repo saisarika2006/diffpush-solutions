@@ -6,7 +6,7 @@
 
 | Problems solved | Tier | DIFF score | Day streak | Last active |
 |-- |-- |-- |-- |--|
-| **1** | **Script Kiddie** | **0** | **🔥 0** | — |
+| **1** | **Script Kiddie** | **310** | **🔥 1** | 2026-10-04 |
 
 ## 🗂️ Solutions
 
