@@ -1,18 +1,20 @@
 {
   "stats": {
     "totalSolved": 1,
-    "diffScore": 0,
-    "currentStreak": 0,
-    "lastActiveDate": null
+    "diffScore": 310,
+    "currentStreak": 1,
+    "lastActiveDate": "2026-10-04"
   },
   "solvedMap": {
     "largest-element-in-array": {
-      "solvedAt": 1791109063001,
+      "solvedAt": 1791109070299,
       "runtimeMs": 2
     }
   },
   "starredIds": [],
-  "reviewQueue": [],
+  "reviewQueue": [
+    "largest-element-in-array"
+  ],
   "boxState": {},
   "achievements": [],
   "comboCount": 0,
